@@ -1,0 +1,1 @@
+下载安装vscode插件：[软著代码生成助手](https://marketplace.visualstudio.com/items?itemName=qcqx.copyright-code&ssr=false#overview)
